@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formularfelder>
+	<formularfeld typ="text">
+		<titel>Textfeld1</titel>
+	</formularfeld>
+	<formularfeld typ="text">
+		<titel>Textfeld2</titel>
+	</formularfeld>
+	<formularfeld typ="text">
+		<titel>Textfeld3</titel>
+	</formularfeld>
+</formularfelder>
